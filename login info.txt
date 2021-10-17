@@ -1,0 +1,11 @@
+Admin :
+User : admin
+password : admin 
+
+Teacher
+user : teacher7@eduroute.eg
+password : 1234
+
+student kg :
+user : aliaa1234@eduroute.eg
+password: 1234

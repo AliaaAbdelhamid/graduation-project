@@ -1,0 +1,96 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.site-nav {
+    padding: 20px 0px;
+    position: relative;
+    width: 100%;
+    top: 0;
+    height: 150px;
+}
+
+.nav2 {
+    position: relative;
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.site-menu {
+    position: absolute;
+    right: 150px;
+    top: 20px;
+}
+
+.site-menu li {
+    display: inline;
+    margin-top: 100px;
+}
+
+.site-menu li a {
+    font-size: 15px;
+    padding: 10px 15px;
+    display: inline;
+    text-decoration: none;
+    color: #fff;
+    position: relative;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.nav-logo {
+    position: absolute;
+    left: 20px;
+}
+
+body {
+    background: url(../img/prep\ background.jpg) no-repeat;
+    background-size: cover;
+}
+
+.login-form {
+    width: 350px;
+    top: 57%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px 40px;
+}
+
+.login-form h1 {
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 40px 0px;
+}
+
+.login-form p {
+    font-size: 20px;
+    margin: 15px 0px;
+}
+
+.login-form input {
+    font-size: 16px;
+    width: 100%;
+    padding: 15px 10px;
+    border: 0;
+    outline: none;
+    border-radius: 5px;
+}
+
+.login-form button {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 10px 15px;
+    width: 50%;
+    border-radius: 5px;
+    border: 0;
+    background: #0FB78D;
+    color: #fff;
+}
